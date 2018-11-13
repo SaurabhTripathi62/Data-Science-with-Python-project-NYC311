@@ -1,2 +1,3 @@
 # Data-Science-with-Python-project-NYC311
-Projrct made while certification 
+Project made while certification 
+jupyter notebook required to see the final file 
